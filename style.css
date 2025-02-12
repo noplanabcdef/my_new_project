@@ -1,0 +1,21 @@
+h1 {
+    color:blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    text-align: center;
+}
+ul {
+    color:green;
+    background-color: violet;
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    width:100px;
+    height:70px;
+    border: 3px dotted red;
+}
